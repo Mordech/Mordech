@@ -1,5 +1,3 @@
-<link rel="me" href="https://mastodon.social/@eladmizrahi">
-
 ### Hi! I'm Elad a Product Designer & UX engineer.
 I combine my experience and knowledge in product design and front-end development to design and develop clever components that make designers and developers work better together.
 I love web-components, cats, baking, and design.
